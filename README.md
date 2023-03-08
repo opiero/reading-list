@@ -1,5 +1,5 @@
-# toread
-books that i am reading or are in my personal queue to read them
+# Reading List
+Books that i am reading or are in my personal queue to read them
 
 1. Clean Code (reading)
 2. Coding the Matrix
