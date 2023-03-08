@@ -8,4 +8,4 @@ Books that i am reading or are in my personal queue to read them
 5. Database Internals
 6. Getting Started to Become a Master Hacker
 7. Designing Data Intensive Applications
-8. Redes de Computadores, Kurose
+8. Computer Networking, Kurose
