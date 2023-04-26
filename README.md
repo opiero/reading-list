@@ -1,7 +1,7 @@
 # Reading List
 Books that i am reading or are in my personal queue to read them
 
-1. ~Clean Code~
+1. ~~Clean Code~~
 2. Coding the Matrix
 3. Fundamentals of Data Engineering
 4. Linux From Scratch
